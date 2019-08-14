@@ -18,7 +18,3 @@ score = 0
 
 game_folder = os.path.dirname(__file__)
 img_folder = os.path.join(game_folder, 'img')
-
-
-def load_police_image():
-    return pygame.image.load(os.path.join(img_folder, 'Police.png'))
