@@ -5,4 +5,4 @@ This is an example of q-learning
 - numpy
 
 # How To Run
-- python3 game.py
+- run the command 'python3 game.py'
